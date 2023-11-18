@@ -1,0 +1,32 @@
+/* CarouselItem.module.css */
+.video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.carousel-item:hover .video-overlay {
+    opacity: 1;
+}
+
+.play-icon, .pause-icon {
+    font-size: 48px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    padding: 10px;
+    transition: transform 0.2s ease;
+}
+
+.video-overlay:hover .play-icon, 
+.video-overlay:hover .pause-icon {
+    transform: scale(1.1);
+}

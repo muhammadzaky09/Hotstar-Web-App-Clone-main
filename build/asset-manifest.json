@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Hotstar-Web-App-Clone-main/static/css/main.6314293d.css",
+    "main.js": "/Hotstar-Web-App-Clone-main/static/js/main.4febf1e5.js",
+    "static/media/video2.mp4": "/Hotstar-Web-App-Clone-main/static/media/video2.8bba7549ac2c38c9b68e.mp4",
+    "static/media/video1.mp4": "/Hotstar-Web-App-Clone-main/static/media/video1.27a24d89e9663bd0312d.mp4",
+    "static/media/video4.mp4": "/Hotstar-Web-App-Clone-main/static/media/video4.179ef56494bed5a8923a.mp4",
+    "static/media/video3.mp4": "/Hotstar-Web-App-Clone-main/static/media/video3.b5a31f08fbd29f45950b.mp4",
+    "static/media/login-background.png": "/Hotstar-Web-App-Clone-main/static/media/login-background.0aec340412f78d52439b.png",
+    "static/media/1564676296-national-geographic.mp4": "/Hotstar-Web-App-Clone-main/static/media/1564676296-national-geographic.bf1b675d8d0beb6c25bc.mp4",
+    "static/media/1608229455-star-wars.mp4": "/Hotstar-Web-App-Clone-main/static/media/1608229455-star-wars.90fa9f5ae993d23505b5.mp4",
+    "static/media/1564676714-pixar.mp4": "/Hotstar-Web-App-Clone-main/static/media/1564676714-pixar.971baf2b0d1f60c27f42.mp4",
+    "static/media/1564674844-disney.mp4": "/Hotstar-Web-App-Clone-main/static/media/1564674844-disney.76f717a34732ff5c5752.mp4",
+    "static/media/1564676115-marvel.mp4": "/Hotstar-Web-App-Clone-main/static/media/1564676115-marvel.25a822f51e652dec1417.mp4",
+    "static/media/viewers-starwars.png": "/Hotstar-Web-App-Clone-main/static/media/viewers-starwars.3fb2e20c0faee83d89db.png",
+    "static/media/cta-logo-two.png": "/Hotstar-Web-App-Clone-main/static/media/cta-logo-two.e69ae55254630c715843.png",
+    "static/media/viewers-disney.png": "/Hotstar-Web-App-Clone-main/static/media/viewers-disney.eb5bab59e7bf29389dc7.png",
+    "static/media/viewers-national.png": "/Hotstar-Web-App-Clone-main/static/media/viewers-national.c50dd65f4a3d07a590f7.png",
+    "static/media/cta-logo-one.svg": "/Hotstar-Web-App-Clone-main/static/media/cta-logo-one.1e2a5ccbbcbea0879d03e030e1e295ff.svg",
+    "static/media/logo.svg": "/Hotstar-Web-App-Clone-main/static/media/logo.8205aae82a3c67ca943e8628e2183b0d.svg",
+    "index.html": "/Hotstar-Web-App-Clone-main/index.html",
+    "main.6314293d.css.map": "/Hotstar-Web-App-Clone-main/static/css/main.6314293d.css.map",
+    "main.4febf1e5.js.map": "/Hotstar-Web-App-Clone-main/static/js/main.4febf1e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6314293d.css",
+    "static/js/main.4febf1e5.js"
+  ]
+}
