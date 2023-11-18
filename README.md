@@ -1,6 +1,6 @@
 # Disney Hotstar UI Clone
 1. Introduction
-   Project overview  : This project
+   Project overview  : This project <br>
    Technologies used : React, NodeJS, Google Firebase
 2. Setup and Installation
    Prerequisites     : NodeJS, npm
