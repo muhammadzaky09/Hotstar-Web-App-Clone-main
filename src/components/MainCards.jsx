@@ -4,11 +4,11 @@ import { getDownloadURL, getStorage, ref } from 'firebase/storage';
 import storage from '../firebase.js';
 
 // Importing static assets (images and videos)
-import vid1 from '../videos/1564674844-disney.mp4';
-import vid2 from '../videos/1564676115-marvel.mp4';
-import vid3 from '../videos/1564676714-pixar.mp4';
-import vid4 from '../videos/1608229455-star-wars.mp4';
-import vid5 from '../videos/1564676296-national-geographic.mp4';
+// import vid1 from '../videos/1564674844-disney.mp4';
+// import vid2 from '../videos/1564676115-marvel.mp4';
+// import vid3 from '../videos/1564676714-pixar.mp4';
+// import vid4 from '../videos/1608229455-star-wars.mp4';
+// import vid5 from '../videos/1564676296-national-geographic.mp4';
 
 // Single Card component to display a video with an overlay image.
 const Card = ({ videoSrc, imageSrc }) => {
