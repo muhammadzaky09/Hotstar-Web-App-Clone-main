@@ -1,15 +1,34 @@
 # Disney Hotstar UI Clone
-1. Introduction
-   Project overview  : This project <br>
-   Technologies used : React, NodeJS, Google Firebase <br>
-2. Setup and Installation
-   Prerequisites     : NodeJS, npm <br>
-   Installation      : 1. Cloning the repository <br>
-                       2. Installing dependencies ( `npm install` ) <br>
-                       3. Running the program     ( `npm start` ) <br>
-3. Navigation
-   The app has the features to show the movie, sign in/sign up log in/log out mechanism <br>
-4. Code structure
-   Components are stored in the `src` folder <br>
+
+## 1. Introduction
+
+### Project Overview
+This project is a clone of the Disney Hotstar UI, focusing on replicating its core features and design aspects using modern web technologies.
+
+### Technologies Used
+- React
+- NodeJS
+- Google Firebase
+
+## 2. Setup and Installation
+
+### Prerequisites
+- NodeJS
+- npm
+
+### Installation Steps
+1. **Cloning the Repository**: Clone the project to your local machine using Git.
+2. **Installing Dependencies**: Navigate to the project directory and run `npm install` to install required dependencies.
+3. **Running the Program**: Start the application by running `npm start`. This will launch the app in your default web browser.
+
+## 3. Navigation
+
+### App Features
+The application includes features to display movies and a user authentication system for sign in/sign up and log in/log out functionalities.
+
+## 4. Code Structure
+
+### Components
+All components are organized within the `src` folder, providing a clean and manageable structure for development and maintenance.
 
 
